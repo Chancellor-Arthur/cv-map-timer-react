@@ -30,6 +30,25 @@ const Cv = () => {
                         </p>
                     </div>
                 </div>
+                <div className="col-md-3">
+                    <div className="card">
+                        <img src="https://i.ibb.co/Lzn17Pb/38a04e62725691-5a996405d4ca0.jpg" className="card-img-top"
+                             alt="" style={{width: '100%'}}/>
+                        <div className="card-body">
+                            <p className="card-text">Свиткин Артур</p>
+                            <p className="card-text">Web-developer</p>
+                            <a href="https://t.me/GreatJinn">
+                                <img src="https://i.ibb.co/GCqB6N4/telegram.png" alt="" style={{width: '20%'}}/>
+                            </a>
+                            <a href="https://github.com/Chancellor-Arthur">
+                                <img src="https://i.ibb.co/gjyb3mr/unnamed.jpg" alt="" style={{width: '20%'}}/>
+                            </a>
+                            <a href="https://vk.com/grand_shogun"><img
+                                src="https://i.ibb.co/3vK37KJ/5ded53183a22616ee70c96ae.png" alt=""
+                                style={{width: '20%'}}/></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     );

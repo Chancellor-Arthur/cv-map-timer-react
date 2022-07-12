@@ -24,6 +24,7 @@ const MapDefault = () => {
                 </YMaps>
                 : <Loader/>
             }
+            <br/>
         </div>
     );
 
