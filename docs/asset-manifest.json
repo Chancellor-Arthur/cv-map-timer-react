@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cv-map-timer-react/static/css/main.b0a135d6.css",
+    "main.js": "/cv-map-timer-react/static/js/main.beb41c43.js",
+    "index.html": "/cv-map-timer-react/index.html",
+    "main.b0a135d6.css.map": "/cv-map-timer-react/static/css/main.b0a135d6.css.map",
+    "main.beb41c43.js.map": "/cv-map-timer-react/static/js/main.beb41c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a135d6.css",
+    "static/js/main.beb41c43.js"
+  ]
+}

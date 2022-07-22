@@ -1,0 +1,12 @@
+.nav-link {
+    color: black;
+}
+
+.nav-pills .nav-link {
+    background: yellow;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: black;
+    background: purple;
+}
